@@ -1,0 +1,29 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2024-04-16 04:00 UTC
+Nmap scan report for CTFctj (172.19.0.1)
+Host is up (0.00014s latency).
+MAC Address: 02:42:A5:27:C7:58 (Unknown)
+Nmap scan report for vances_pc.net_sombra-network (172.19.0.34)
+Host is up (0.000062s latency).
+MAC Address: 00:1A:2B:3C:4D:5E (Ayecom Technology)
+Nmap scan report for charles_pc.net_sombra-network (172.19.0.52)
+Host is up (0.000048s latency).
+MAC Address: 10:CF:96:B8:0C:26 (Unknown)
+Nmap scan report for erika_pc.net_sombra-network (172.19.0.64)
+Host is up (0.000037s latency).
+MAC Address: 1C:15:1C:C6:E2:17 (Unknown)
+Nmap scan report for bob_pc.net_sombra-network (172.19.0.98)
+Host is up (0.000051s latency).
+MAC Address: 90:34:11:02:2B:1B (Unknown)
+Nmap scan report for alice_pc.net_sombra-network (172.19.0.99)
+Host is up (0.000048s latency).
+MAC Address: 4A:C8:2B:D9:EC:97 (Unknown)
+Nmap scan report for SombraDaNuvem (172.19.0.127)
+Host is up.
+Nmap done: 256 IP addresses (7 hosts up) scanned in 1.30 seconds
+
+02:42:A5:27:C7:58
+00:1A:2B:3C:4D:5E
+10:CF:96:B8:0C:26
+1C:15:1C:C6:E2:17
+90:34:11:02:2B:1B
+4A:C8:2B:D9:EC:97
