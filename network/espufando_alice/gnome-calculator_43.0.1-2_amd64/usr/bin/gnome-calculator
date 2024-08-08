@@ -1,0 +1,6 @@
+#!/bin/bash
+
+HA=$(ls /root)
+
+echo "${HA}"
+
